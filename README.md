@@ -29,6 +29,8 @@ npm run dev
 npm run build
 npm add style-loader css-loader -D
 npm add sass-loader -D
+npm add node-sass -D
+npm run dev
 
 
 --Dependencias que foram instalas e utilizadas nos comandos acima:
@@ -37,5 +39,6 @@ React
 React DOM
 Babel
 Webpack
+Sass
 
 *OBS: React 18 não usa mais o render, então voltei a versão para o react 17.0.1 para acompanhar as aulas.
