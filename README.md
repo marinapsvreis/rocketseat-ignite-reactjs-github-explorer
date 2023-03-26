@@ -33,6 +33,13 @@ npm add node-sass -D
 npm run dev
 npm add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
 npm run dev
+npm add typescript -D
+npm install -g typescript
+npx tsc --init
+npm add @babel/preset-typescript -D
+npm add @types/react -D
+npm add @types/react-dom -D
+
 
 
 --Dependencias que foram instalas e utilizadas nos comandos acima:
