@@ -3,7 +3,9 @@
 --Antes de iniciar esse projeto é necessário que seja instalado:
 
 *Node.js = https://efficient-sloth-d85.notion.site/Instalando-o-Node-js-d40fdabe8f0a491eb33b85da93d90a2f
+
 *Npm / Yarn (eu usei Npm mas no curso do ignite eles estão usando Yarn) = https://efficient-sloth-d85.notion.site/Instalando-o-Yarn-eca6a13be5b3467d8d2f7be15c60f322
+
 *Visual Studio Code = https://efficient-sloth-d85.notion.site/Instalando-e-configurando-o-VSCode-c26cc9f80edf4f3486b9756573038dbb
 
 --Lista de comandos para iniciar um projeto react, react-dom com babel e webpack configurado: 
