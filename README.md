@@ -31,6 +31,8 @@ npm add style-loader css-loader -D
 npm add sass-loader -D
 npm add node-sass -D
 npm run dev
+npm add -D @pmmmwh/react-refresh-webpack-plugin react-refresh
+npm run dev
 
 
 --Dependencias que foram instalas e utilizadas nos comandos acima:
@@ -40,5 +42,6 @@ React DOM
 Babel
 Webpack
 Sass
+React Refresh (ao alterar arquivos, o estado se mantem).
 
 *OBS: React 18 não usa mais o render, então voltei a versão para o react 17.0.1 para acompanhar as aulas.
